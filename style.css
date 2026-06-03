@@ -14,6 +14,8 @@ form{
     background-color: beige;
     padding: 15px 20px;
     border-radius: 12px;
+    border-color: red;
+    border-style: solid;
     width:400px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 
@@ -70,6 +72,7 @@ button{
     border-radius: 6px;
     cursor: pointer;
     font-size: 16px;
+    cursor: pointer;
 }
 button:hover{
     background:#00ff55;
