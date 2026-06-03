@@ -48,7 +48,7 @@ label{
 }
 input{
     width: 100%;
-    padding: 6px;
+    padding: 8px;
     margin-bottom: 5px;
     border-radius: 6px;
     border: 1px solid #ccc;
@@ -72,11 +72,10 @@ button{
     border-radius: 6px;
     cursor: pointer;
     font-size: 16px;
-    cursor: pointer;
 }
 button:hover{
     background:#00ff55;
 }
 input[type="file"]{
-    border:none;
+    border:none; .
 }
